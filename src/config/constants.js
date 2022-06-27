@@ -1,0 +1,5 @@
+exports.SALT_ROUNDS = 10;
+exports.SECRET = 'eyJhbGciOiJIUzUxMiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTY1NTA0OTUwMywiaWF0IjoxNjU1MDQ5NTAzfQ.KpkAPqj4k49jBSL2vjXd8ug3Ds_SdHsaJC4iAPTAWFy5HFEE2JSja9SSlFR7r6f5UrLnpgvVOhQsFVJDKinh9'
+exports.SESSION_NAME = 'user-session';
+exports.COLLECTION_NAME = 'crypto-trade';
+exports.PORT = 3000;
